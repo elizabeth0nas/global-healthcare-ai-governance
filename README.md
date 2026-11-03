@@ -1,4 +1,4 @@
-# Global Healthcare AI Governance Operating Model
+# Healthcare AI Governance Operating Model for GlobalPharm International
 ## Executive Problem Statement
 
 **Organization:** GlobalPharm International  
@@ -76,8 +76,6 @@ As a result, AI systems may be developed, procured, deployed, or modified withou
 15. Retiring AI systems in a controlled manner
 
 Without a consistent governance model, the organization may experience fragmented decision-making, inconsistent risk treatment, regulatory exposure, duplicated controls, uncontrolled AI adoption, and difficulty demonstrating that AI systems are being managed responsibly throughout their lifecycle.
-
-
 
 4. Key Governance Risks
 
