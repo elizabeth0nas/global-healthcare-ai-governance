@@ -313,7 +313,7 @@ The final deliverable will be a scalable Global Healthcare AI Governance Operati
 
 **AI Strategy → Governance → Risk → Compliance → Privacy → Cybersecurity → Quality → Regulatory → Operations → Monitoring**
 
-The model will provide GlobalPharm with a repeatable mechanism for determining:
+This model will provide GlobalPharm with a repeatable mechanism for determining:
 
 > **What AI are we using?**
 > **Why are we using it?** 
