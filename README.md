@@ -324,4 +324,4 @@ The model will provide GlobalPharm with a repeatable mechanism for determining:
 > **Who approves it?**  
 > **How do we know it remains safe and compliant?**
 
-This operating model will establish the governance foundation required for responsible and scalable AI adoption across the global organization.8
+This operating model will establish the governance foundation required for responsible and scalable AI adoption across the global organization.
